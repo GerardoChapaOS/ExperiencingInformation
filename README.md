@@ -1,5 +1,4 @@
 # ExperiencingInformation
 All File Repository for Undergraduate Thesis Project
 
-/n
-Testing whether creating a Repository will be valuable
+Testing whether creating a Repository will work for my purposes
